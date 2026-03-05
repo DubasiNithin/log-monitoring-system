@@ -1,0 +1,17 @@
+INFO Server started
+INFO Database connected
+WARNING Disk usage high
+ERROR Connection timeout
+INFO Request processed
+ERROR Failed login attempt
+ERROR Database crashed
+ERROR Failed login attempt
+ERROR Database crashed
+ERROR Database crashed
+WARNING Disk usage high
+ERROR Database crashedERROR Cron test failure
+ERROR Database crashed
+ERROR Cron Rest failure
+ERROR failure
+ERROR Cron final test
+ERROR After restart test
